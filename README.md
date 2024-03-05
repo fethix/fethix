@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fethix
-- 👀 I’m interested in IT (cybersecurity)
+- 👀 I’m interested in IT 
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on self improvement
 - 📫 How to reach me no need to
