@@ -1,4 +1,4 @@
-###### about me
+# about me
 - 👋 Hi, I’m @fethix
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning C
