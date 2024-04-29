@@ -2,8 +2,7 @@
 - 👋 Hi, I’m @fethix
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on self improvement
-- 📫 How to reach me no need to
+- 📫 How to reach harchaouifethi15.36@gmail.com
 
 <!---
 fethix/fethix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
